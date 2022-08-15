@@ -20,4 +20,3 @@ ___
 
 Social: [VK](https://vk.com/romantsapko), [Github](https://github.com/Tvenkk)
 ___
-<img src="https://vk.com/romantsapko?z=photo251120378_457256519%2Fphotos251120378">
