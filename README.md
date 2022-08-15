@@ -1,7 +1,7 @@
 # 🙋‍♂ Welcome!
 I write beautiful code, revitalize sites, constantly develop
 
-Knowledge: HTML, CSS, SASS, Git, Github, Studying JS
+Knowledge: HTML, CSS, SASS, Git, Github, Studying JavaScript
 
 Same way: BEM, Flexbox, CSS-animation, adaptive and cross-browser layout, Figma
 ___
