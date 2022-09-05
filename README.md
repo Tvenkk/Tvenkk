@@ -18,5 +18,5 @@ ___
 
 ❗ All of my work was stored on my computer, but now I've mastered git and decided to put all my work on github.
 
-Social: [VK](https://vk.com/romantsapko)
+Social: [VK](https://vk.com/romantsapko); 
 Email: roma.tsapko.01@mail.ru
