@@ -20,5 +20,6 @@ ___
 
 ### 👋🏻 I'm here
 
-Social: [VK](https://vk.com/romantsapko)<br>
+[VKontakte](https://vk.com/romantsapko)<br>
+[Telegram](https://t.me/+HO3wfBeb2z03ZWQy)<br>
 Email: roma.tsapko.01@mail.ru
