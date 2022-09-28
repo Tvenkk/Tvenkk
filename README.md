@@ -1,9 +1,9 @@
 # 🙋‍♂ Welcome!
 I'm a self-taught programmer, write beautiful code, revitalize sites, constantly develop
 
-Knowledge: JavaScript, HTML, CSS, SASS, Git
+My stack: JavaScript, HTML, CSS, SASS, Git
 
-Same way: BEM, Flexbox, CSS-animation, adaptive and cross-browser layout, Figma, Github
+Knowledge: BEM, Flexbox, Figma, CSS-animation, adaptive and cross-browser layout, Github
 ___
 
 ## 😄 About me
