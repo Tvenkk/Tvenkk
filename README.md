@@ -1,22 +1,24 @@
 # 🙋‍♂ Welcome!
-I write beautiful code, revitalize sites, constantly develop
+I'm a self-taught programmer, write beautiful code, revitalize sites, constantly develop
 
-Knowledge: HTML, CSS, SASS, Git, Github, Studying JavaScript
+Knowledge: JavaScript, HTML, CSS, SASS, Git
 
-Same way: BEM, Flexbox, CSS-animation, adaptive and cross-browser layout, Figma
+Same way: BEM, Flexbox, CSS-animation, adaptive and cross-browser layout, Figma, Github
 ___
 
 ## 😄 About me
 
-🚶 My name is Roman, I am 20 years old, I have been doing layout, I practice every day and reinforce my knowledge, I also learn something new.
+🚶 My name is Roman, I am 20 years old, I am a self-taught programmer, engaged in development and layout, practicing every day consolidating his knowledge, as well as learn something new, has passed many courses on different platforms, both paid and free.
 
-⭐ Plan for the near future, learn js + react, become a good developer.
+⭐ A plan for the near future, learn JS + React, become a good developer and get a job.
 
-🌟 There is a girlfriend, there is a category B license, there is a personal car. Education cnc machine operator.
+🌟 I have a wonderful girlfriend. Have a car and a category B license. Have education as a CNC machine operator.
 
-🎓 From my school days, I dreamed of becoming a programmer, I tried to enter a college as a programmer, but I didn’t pass, I went to study for something similar, I tried to start studying html and css at the age of 15, but nothing came of it, from that moment the thought of starting over never left and here you are reading my description on my github profile.
+🎓 From school years I dreamed of becoming a programmer, I tried to go to college for this specialty, but did not pass, and therefore went to study in a similar direction. I tried to start studying HTML and CSS at the age of 15, but it did not work, from that moment on the idea of starting all over again never left me. After almost 5 years I still tried to enter this field again and it worked, and here you are reading my description on my Github profile.
 
-❗ All of my work was stored on my computer, but now I've mastered git and decided to put all my work on github.
+❗ All of my works was stored on my computer locally, but now I've mastered git and put all my work on Github.
 
-Social: [VK](https://vk.com/romantsapko); 
+### 👋🏻 I'm here
+
+Social: [VK](https://vk.com/romantsapko)<br>
 Email: roma.tsapko.01@mail.ru
