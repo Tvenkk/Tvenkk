@@ -1,7 +1,7 @@
 # 🙋‍♂ Welcome!
-I'm a self-taught programmer, write beautiful code, revitalize sites, constantly develop
+I'm a QA-engineer, testing applications and improving their use
 
-My skills: JavaScript, HTML, CSS, Sass, Git
+My skills: Postman, Jira, Confluence, Qase.io, Sitechco, Trello, API, SQL, ChromeDevTools, HTML, CSS, Git
 ___
 
 ## 😄 About me
