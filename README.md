@@ -1,7 +1,7 @@
 # 🙋‍♂ Welcome!
 I'm a QA-engineer, testing applications and improving their use
 
-My skills: Postman, Jira, Confluence, Qase.io, Sitechco, Trello, API, SQL, ChromeDevTools, HTML, CSS, Git
+My skills: Postman, Jira, Confluence, Qase.io, Sitechco, Trello, API, SQL, JMeter, SoapUI, ChromeDevTools, HTML, CSS, Git
 ___
 
 ## 😄 About me
